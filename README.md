@@ -15,7 +15,7 @@
 <h1 align="center">Hola, soy Diego Morga 👋</h1>
 
 <p align="center">
-Frontend Developer • Software Engineering Student
+Desarrollador Frontend • Estudiante de Ingeniería de Software
 </p>
 
 
