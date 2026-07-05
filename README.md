@@ -15,57 +15,67 @@
 <h1 align="center">Hola, soy Diego Morga 👋</h1>
 
 <p align="center">
-Desarrollador Frontend • Estudiante de Ingeniería de Software
+Desarrollador de Software • Estudiante de Ingeniería de Software
 </p>
 
 
 <h2 align="left">👩‍💻  Sobre mí</h2>
 
 <p align="left">
-Desarrollador frontend y estudiante de Ingeniería de Software, enfocado en aplicaciones web modernas utilizando tecnologías del ecosistema JavaScript.
+Soy estudiante de Ingeniería de Software. Me gusta desarrollar aplicaciones web, aprender nuevas tecnologías y construir soluciones que resuelvan problemas reales.
 
 </p>
 
 
-<h3 align="left">💻 Lenguajes y Frameworks</h3>
+<h3 data-importer="text" align="left">💻 Lenguajes</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
+###
 
-<h3 align="left">⚙️ Backend y Bases de Datos</h3>
+<h3 data-importer="text" align="left">🎨 Frontend</h3>
 
-<div align="left">
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+<h3 data-importer="text" align="left">⚙️   Backend</h3>
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+</div>
+
+<h3 data-importer="text" align="left">⚙️   Bases de Datos</h3>
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+<h3 data-importer="text" align="left">🛠️   Herramientas</h3>
 
-<h3 align="left">🛠️ Herramientas</h3>
-
-<div align="left">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -75,23 +85,12 @@ Desarrollador frontend y estudiante de Ingeniería de Software, enfocado en apli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="40" alt="insomnia logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
 </div>
 
+<h3 data-importer="text" align="left">🏫 Actualmente</h3>
 
-<h3 align="left">🏫 Actualmente</h3>
-
-<p align="left">
-• Estudiando Ingeniería de Software <br>
-• Construyendo proyectos con Angular, React y Node.js <br>
-• Fortaleciendo conocimientos en arquitectura y desarrollo full stack
-</p>
+<p data-importer="text" align="left">- Estudiando Ingeniería de Software.<br>- Aprendiendo más sobre arquitectura de software, buenas prácticas y desarrollo Full Stack.<br>- Construyendo proyectos con Angular, NestJS y TypeScript.</p>
 
 
-<h3 align="left">🧠 Especialidades</h3>
-
-<p align="left">
-• Desarrollo frontend moderno <br>
-• Integración de APIs REST <br>
-• Interfaces responsivas y dinámicas <br>
-• Optimización y mantenimiento de aplicaciones web
-</p>
