@@ -93,4 +93,6 @@ Soy estudiante de Ingeniería de Software. Me gusta desarrollar aplicaciones web
 
 <p data-importer="text" align="left">- Estudiando Ingeniería de Software.<br>- Aprendiendo más sobre arquitectura de software, buenas prácticas y desarrollo Full Stack.<br>- Construyendo proyectos con Angular, NestJS y TypeScript.</p>
 
+##
+![Snake animation](https://raw.githubusercontent.com/morga-dev/morga-dev/output/github-contribution-grid-snake-dark.svg)
 
