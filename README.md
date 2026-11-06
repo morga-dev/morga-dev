@@ -10,6 +10,11 @@
   <a href="https://www.linkedin.com/in/diego-morga">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+
+  <a href="https://diego-morga.vercel.app">
+    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  
 </div>
 
 <h1 align="center">Hola, soy Diego Morga 👋</h1>
