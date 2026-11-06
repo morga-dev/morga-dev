@@ -23,6 +23,11 @@
 Desarrollador de Software • Estudiante de Ingeniería de Software
 </p>
 
+<div align="center">
+  <h3>Explora mi <a href="https://diego-morga.vercel.app">Portafolio personal</a> </h3>
+  <p>Diseñado con Next.js 16, TypeScript y Tailwind CSS.</p>
+</div>
+
 
 <h2 align="left">👩‍💻  Sobre mí</h2>
 
